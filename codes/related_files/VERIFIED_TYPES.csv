@@ -1,0 +1,15 @@
+post_type,verified_type,doc_count,body_type
+普通用户,-1,147718054,people
+会员,10,363462,people
+初级达人,200,608684,people
+中高级达人,220,10678650,people
+名人,0,2870032,media
+政府,1,5277728,official
+企业,2,2058391,other
+媒体,3,2051295,media
+校园,4,493788,media
+团体（机构）,7,468411,other
+网站,5,78855,other
+待审企业,8,3951,other
+应用,6,336,other
+未找到,-100,,other

@@ -1,0 +1,319 @@
+2019-05-24 14:19:07,870 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-05-24 14:19:56,215 - stable_monitor.score - INFO    :[2019-04-01 ~ 2019-05-01][zk_social] Took 27768 milliseconds. Got 9900673 docs. Cover counties num: 2870.
+2019-05-24 14:20:03,252 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-04-01 ~ 2019-05-01
+2019-05-24 14:20:03,279 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2019-04-30']
+2019-05-24 14:20:03,279 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 1
+2019-05-24 16:59:00,061 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-05-24 16:59:31,133 - stable_monitor.score - INFO    :[2019-04-01 ~ 2019-05-01][zk_social] Took 10850 milliseconds. Got 9900673 docs. Cover counties num: 2870.
+2019-05-24 16:59:38,155 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-04-01 ~ 2019-05-01
+2019-05-24 16:59:38,584 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30']
+2019-05-24 16:59:38,584 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 16
+2019-05-24 17:02:24,784 - stable_monitor.store - INFO    :[已完成稳定综合（历史）评分数据存入知识库] 2019-04-30   code：4530100102
+2019-05-24 17:03:24,830 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-05-01
+2019-05-24 17:03:27,673 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-04-30   表名：interface_stable
+2019-05-24 17:05:24,481 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-04-30   code：4530100112
+2019-05-24 17:07:14,324 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-04-30   code：4530100101
+2019-05-24 17:08:59,618 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-04-30   code：4530100111
+2019-05-24 17:10:25,767 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-04-30   code：4520101001
+2019-05-24 17:11:44,930 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-04-30   code：4520101002
+2019-05-24 17:13:03,498 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-04-30   code：4520101003
+2019-05-24 17:14:09,473 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-04-30   code：4520101004
+2019-05-24 18:11:23,634 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2019-07-03 20:30:10,698 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-07-03 20:31:03,731 - stable_monitor.score - INFO    :[2019-05-01 ~ 2019-06-01][zk_social] Took 37721 milliseconds. Got 9594544 docs. Cover counties num: 2871.
+2019-07-03 20:31:10,688 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-05-01 ~ 2019-06-01
+2019-07-03 20:31:11,394 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31']
+2019-07-03 20:31:11,394 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 17
+2019-07-03 20:31:12,304 - stable_monitor.store - INFO    :[已完成稳定综合（历史）评分数据存入知识库] 2019-05-31   code：4530100102
+2019-07-03 20:31:12,359 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-06-01
+2019-07-03 20:31:14,511 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-05-31   表名：interface_stable
+2019-07-03 20:31:15,048 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-05-31   code：4530100112
+2019-07-03 20:31:15,487 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-05-31   code：4530100101
+2019-07-03 20:31:15,988 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-05-31   code：4530100111
+2019-07-03 20:31:16,444 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-05-31   code：4520101001
+2019-07-03 20:31:16,999 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-05-31   code：4520101002
+2019-07-03 20:31:17,419 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-05-31   code：4520101003
+2019-07-03 20:31:17,807 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-05-31   code：4520101004
+2019-07-11 17:39:11,855 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-07-11 17:39:43,607 - stable_monitor.score - INFO    :[2019-06-01 ~ 2019-07-01][zk_social] Took 16461 milliseconds. Got 8668571 docs. Cover counties num: 2871.
+2019-07-11 17:39:51,270 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-06-01 ~ 2019-07-01
+2019-07-11 17:39:52,079 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30']
+2019-07-11 17:39:52,079 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 18
+2019-07-11 17:39:53,050 - stable_monitor.store - INFO    :[已完成稳定综合（历史）评分数据存入知识库] 2019-06-30   code：4530100102
+2019-07-11 17:39:53,105 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-07-01
+2019-07-11 17:39:55,428 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-06-30   表名：interface_stable
+2019-07-11 17:39:55,932 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-06-30   code：4530100112
+2019-07-11 17:39:56,367 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-06-30   code：4530100101
+2019-07-11 17:39:56,801 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-06-30   code：4530100111
+2019-07-11 17:39:57,234 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-06-30   code：4520101001
+2019-07-11 17:39:57,618 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-06-30   code：4520101002
+2019-07-11 17:39:58,043 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-06-30   code：4520101003
+2019-07-11 17:39:58,396 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-06-30   code：4520101004
+2019-07-11 18:41:22,957 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2019-08-14 11:40:28,763 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-08-14 11:40:54,222 - stable_monitor.score - INFO    :[2019-07-01 ~ 2019-08-01][zk_social] Took 11546 milliseconds. Got 9815609 docs. Cover counties num: 2874.
+2019-08-14 11:41:05,688 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-07-01 ~ 2019-08-01
+2019-08-14 11:41:06,271 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31']
+2019-08-14 11:41:06,271 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 19
+2019-08-14 11:41:07,403 - stable_monitor.store - INFO    :[已完成稳定综合（历史）评分数据存入知识库] 2019-07-31   code：4530100102
+2019-08-14 11:41:07,448 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-08-01
+2019-08-14 11:41:10,144 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-07-31   表名：interface_stable
+2019-08-14 11:41:10,561 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-07-31   code：4530100112
+2019-08-14 11:41:10,975 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-07-31   code：4530100101
+2019-08-14 11:41:11,396 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-07-31   code：4530100111
+2019-08-14 11:41:11,803 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-07-31   code：4520101001
+2019-08-14 11:41:12,214 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-07-31   code：4520101002
+2019-08-14 11:41:12,638 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-07-31   code：4520101003
+2019-08-14 11:41:13,052 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-07-31   code：4520101004
+2019-08-14 13:04:04,625 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2019-09-27 17:46:56,133 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-09-27 17:47:18,011 - stable_monitor.score - INFO    :[2019-08-01 ~ 2019-09-01][zk_social] Took 10457 milliseconds. Got 10129945 docs. Cover counties num: 2874.
+2019-09-27 17:47:28,720 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-08-01 ~ 2019-09-01
+2019-09-27 17:47:29,500 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31']
+2019-09-27 17:47:29,500 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 20
+2019-09-27 17:47:30,552 - stable_monitor.store - INFO    :[已完成稳定综合（历史）评分数据存入知识库] 2019-08-31   code：4530100102
+2019-09-27 17:47:30,619 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-09-01
+2019-09-27 17:47:33,413 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-08-31   表名：interface_stable
+2019-09-27 17:47:33,898 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-08-31   code：4530100112
+2019-09-27 17:47:34,349 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-08-31   code：4530100101
+2019-09-27 17:47:34,783 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-08-31   code：4530100111
+2019-09-27 17:47:35,279 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-08-31   code：4520101001
+2019-09-27 17:47:35,683 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-08-31   code：4520101002
+2019-09-27 17:47:36,134 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-08-31   code：4520101003
+2019-09-27 17:47:36,547 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-08-31   code：4520101004
+2019-09-27 19:00:45,309 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2019-10-09 10:25:03,009 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-10-09 10:25:44,674 - stable_monitor.score - INFO    :[2019-09-01 ~ 2019-10-01][zk_social] Took 6729 milliseconds. Got 10046898 docs. Cover counties num: 2874.
+2019-10-09 10:25:54,450 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-09-01 ~ 2019-10-01
+2019-10-09 10:25:55,754 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30']
+2019-10-09 10:25:55,754 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 21
+2019-10-09 10:25:58,898 - stable_monitor.store - INFO    :[已完成稳定综合（历史）评分数据存入知识库] 2019-09-30   code：4530100102
+2019-10-09 10:25:58,930 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-10-01
+2019-10-09 10:25:58,966 - stable_monitor - WARNING :[2019-09-01 ~ 2019-10-01] 新周期内不稳定事件数仅：8332件；非正常，过少，无法评分，请检查数据源情况。
+2019-10-09 10:26:01,410 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-09-30   表名：interface_stable
+2019-10-09 10:26:02,296 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-09-30   code：4530100112
+2019-10-09 10:26:03,048 - stable_monitor.store - INFO    :[已完成稳定月度评分数据存入知识库] 2019-09-30   code：4530100101
+2019-10-09 10:26:03,821 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-09-30   code：4530100111
+2019-10-09 10:26:04,684 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-09-30   code：4520101001
+2019-10-09 10:26:05,568 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-09-30   code：4520101002
+2019-10-09 10:26:06,244 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-09-30   code：4520101003
+2019-10-09 10:26:06,950 - stable_monitor.store - INFO    :[已完成稳定月度统计数据存入知识库] 2019-09-30   code：4520101004
+2019-10-09 11:33:47,273 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2019-11-07 15:24:06,561 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-11-07 15:24:37,334 - stable_monitor.score - INFO    :[2019-10-01 ~ 2019-11-01][zk_social] Took 14405 milliseconds. Got 10187950 docs. Cover counties num: 2874.
+2019-11-07 15:24:47,831 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-10-01 ~ 2019-11-01
+2019-11-07 15:24:48,514 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31']
+2019-11-07 15:24:48,514 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 22
+2019-11-07 15:24:48,879 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-11-01
+2019-11-07 15:24:53,013 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-10-31   表名：interface_stable
+2019-11-07 15:25:01,623 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100101
+2019-11-07 15:25:02,070 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100102
+2019-11-07 15:25:02,524 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100111
+2019-11-07 15:25:02,945 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100112
+2019-11-07 15:25:03,348 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101001
+2019-11-07 15:25:03,769 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101002
+2019-11-07 15:25:04,164 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101003
+2019-11-07 15:25:04,533 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101004
+2019-11-07 15:25:39,470 - stable_monitor.readjust_score - INFO    :[已完成校正后的指数存入知识库] 2019-10-31   code: 4530200101   data_num: 3239
+2019-11-07 17:08:56,501 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2019-12-04 16:23:46,391 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-12-04 16:24:12,621 - stable_monitor.score - INFO    :[2019-11-01 ~ 2019-12-01][zk_social] Took 10203 milliseconds. Got 8793803 docs. Cover counties num: 2874.
+2019-12-04 16:26:24,717 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-12-04 16:27:44,980 - stable_monitor.score - INFO    :[2019-11-01 ~ 2019-12-01][zk_social] Took 34153 milliseconds. Got 8793803 docs. Cover counties num: 2874.
+2019-12-04 16:34:34,705 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-12-04 16:34:49,096 - stable_monitor.score - INFO    :[2019-11-01 ~ 2019-12-01][zk_social] Took 9727 milliseconds. Got 8793803 docs. Cover counties num: 2874.
+2019-12-04 16:35:22,781 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2019-12-04 16:37:26,377 - stable_monitor.score - INFO    :[2019-11-01 ~ 2019-12-01][zk_social] Took 118381 milliseconds. Got 8793803 docs. Cover counties num: 2874.
+2019-12-04 16:37:35,497 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-11-01 ~ 2019-12-01
+2019-12-04 16:37:36,318 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30']
+2019-12-04 16:37:36,318 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 23
+2019-12-04 16:37:36,655 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-12-01
+2019-12-04 16:37:39,451 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-11-30   表名：interface_stable
+2019-12-04 16:37:43,488 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100101
+2019-12-04 16:37:43,510 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100102
+2019-12-04 16:37:43,524 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100111
+2019-12-04 16:37:43,540 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100112
+2019-12-04 16:37:43,553 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101001
+2019-12-04 16:37:43,567 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101002
+2019-12-04 16:37:43,581 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101003
+2019-12-04 16:37:43,595 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101004
+2019-12-04 16:38:12,764 - stable_monitor.readjust_score - INFO    :[已完成校正后的指数存入知识库] 2019-11-30   code: 4530200101   data_num: 3239
+2019-12-04 18:20:49,983 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2020-01-03 10:26:44,747 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 10:27:01,488 - stable_monitor.score - INFO    :[2019-12-01 ~ 2020-01-01][zk_social] Took 5114 milliseconds. Got 6194839 docs. Cover counties num: 2874.
+2020-01-03 10:27:10,897 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-12-01 ~ 2020-01-01
+2020-01-03 10:27:11,839 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30', '2019-12-31']
+2020-01-03 10:27:11,839 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 24
+2020-01-03 10:27:12,206 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2020-01-01
+2020-01-03 10:27:12,266 - stable_monitor - WARNING :[2019-12-01 ~ 2020-01-01] 新周期内不稳定事件数仅：8745件；非正常，过少，无法评分，请检查数据源情况。
+2020-01-03 10:27:14,912 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-12-31   表名：interface_stable
+2020-01-03 11:32:21,833 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 11:32:39,310 - stable_monitor.score - INFO    :[2019-12-01 ~ 2020-01-01][zk_social] Took 10105 milliseconds. Got 6194839 docs. Cover counties num: 2874.
+2020-01-03 11:32:56,778 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-12-01 ~ 2020-01-01
+2020-01-03 11:32:57,389 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30', '2019-12-31', '2019-12-31']
+2020-01-03 11:32:57,389 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 25
+2020-01-03 11:32:58,131 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2020-01-01
+2020-01-03 11:32:58,137 - stable_monitor - WARNING :[2019-12-01 ~ 2020-01-01] 新周期内不稳定事件数仅：8745件；非正常，过少，无法评分，请检查数据源情况。
+2020-01-03 11:33:01,525 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-12-31   表名：interface_stable
+2020-01-03 11:37:03,428 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 11:37:20,475 - stable_monitor.score - INFO    :[2019-12-01 ~ 2020-01-01][zk_social] Took 8443 milliseconds. Got 6194839 docs. Cover counties num: 2874.
+2020-01-03 11:37:29,392 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-12-01 ~ 2020-01-01
+2020-01-03 11:37:29,865 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30', '2019-12-31', '2019-12-31', '2019-12-31']
+2020-01-03 11:37:29,865 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 26
+2020-01-03 11:37:30,205 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2020-01-01
+2020-01-03 11:37:30,211 - stable_monitor - WARNING :[2019-12-01 ~ 2020-01-01] 新周期内不稳定事件数仅：8745件；非正常，过少，无法评分，请检查数据源情况。
+2020-01-03 11:37:32,574 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-12-31   表名：interface_stable
+2020-01-03 11:37:37,638 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100101
+2020-01-03 11:37:37,658 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100102
+2020-01-03 11:37:38,263 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100111
+2020-01-03 11:37:38,813 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100112
+2020-01-03 11:37:39,475 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101001
+2020-01-03 11:37:40,086 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101002
+2020-01-03 11:37:40,775 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101003
+2020-01-03 11:37:41,311 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101004
+2020-01-03 11:38:09,954 - stable_monitor.readjust_score - INFO    :[已完成校正后的指数存入知识库] 2019-12-31   code: 4530200101   data_num: 3239
+2020-01-03 11:43:55,187 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 11:44:25,073 - stable_monitor.score - INFO    :[2019-11-01 ~ 2019-12-01][zk_social] Took 22801 milliseconds. Got 8818473 docs. Cover counties num: 2874.
+2020-01-03 11:44:33,976 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-11-01 ~ 2019-12-01
+2020-01-03 11:44:34,406 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30', '2019-11-30']
+2020-01-03 11:44:34,407 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 24
+2020-01-03 11:44:34,763 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-12-01
+2020-01-03 11:44:36,932 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-11-30   表名：interface_stable
+2020-01-03 11:44:41,512 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100101
+2020-01-03 11:44:41,547 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100102
+2020-01-03 11:44:42,087 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100111
+2020-01-03 11:44:42,587 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100112
+2020-01-03 11:44:42,946 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101001
+2020-01-03 11:44:43,453 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101002
+2020-01-03 11:44:44,011 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101003
+2020-01-03 11:44:44,490 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101004
+2020-01-03 11:52:52,299 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 11:53:11,460 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 11:53:47,521 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 11:54:14,119 - stable_monitor.score - INFO    :[2019-10-01 ~ 2019-11-01][zk_social] Took 20196 milliseconds. Got 10200747 docs. Cover counties num: 2874.
+2020-01-03 11:54:23,033 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-10-01 ~ 2019-11-01
+2020-01-03 11:54:23,460 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-10-31']
+2020-01-03 11:54:23,460 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 23
+2020-01-03 11:54:23,800 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-11-01
+2020-01-03 11:54:25,972 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-10-31   表名：interface_stable
+2020-01-03 11:54:30,750 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100101
+2020-01-03 11:54:30,796 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100102
+2020-01-03 11:54:31,429 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100111
+2020-01-03 11:54:32,149 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100112
+2020-01-03 11:54:32,883 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101001
+2020-01-03 11:54:33,617 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101002
+2020-01-03 11:54:34,151 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101003
+2020-01-03 11:54:34,687 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101004
+2020-01-03 12:03:29,176 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 12:03:44,821 - stable_monitor.score - INFO    :[2019-10-01 ~ 2019-11-01][zk_social] Took 7778 milliseconds. Got 10200747 docs. Cover counties num: 2874.
+2020-01-03 12:03:53,917 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-10-01 ~ 2019-11-01
+2020-01-03 12:03:54,360 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-10-31', '2019-10-31']
+2020-01-03 12:03:54,360 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 24
+2020-01-03 12:03:54,704 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-11-01
+2020-01-03 12:03:56,909 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-10-31   表名：interface_stable
+2020-01-03 12:04:29,456 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 12:04:39,631 - stable_monitor.score - INFO    :[2019-10-01 ~ 2019-11-01][zk_social] Took 5553 milliseconds. Got 10200747 docs. Cover counties num: 2874.
+2020-01-03 12:04:48,615 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-10-01 ~ 2019-11-01
+2020-01-03 12:04:49,069 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-10-31', '2019-10-31', '2019-10-31']
+2020-01-03 12:04:49,069 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 25
+2020-01-03 12:04:49,410 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-11-01
+2020-01-03 12:05:00,466 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-10-31   表名：interface_stable
+2020-01-03 12:05:05,352 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100101
+2020-01-03 12:05:05,901 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100102
+2020-01-03 12:05:06,403 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100111
+2020-01-03 12:05:06,892 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100112
+2020-01-03 12:05:07,474 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101001
+2020-01-03 12:05:07,941 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101002
+2020-01-03 12:05:08,700 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101003
+2020-01-03 12:05:09,237 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101004
+2020-01-03 12:05:37,878 - stable_monitor.readjust_score - INFO    :[已完成校正后的指数存入知识库] 2019-10-31   code: 4530200101   data_num: 3239
+2020-01-03 12:06:16,748 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 12:06:27,621 - stable_monitor.score - INFO    :[2019-10-01 ~ 2019-11-01][zk_social] Took 6126 milliseconds. Got 10200747 docs. Cover counties num: 2874.
+2020-01-03 12:07:07,836 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 12:07:23,710 - stable_monitor.score - INFO    :[2019-10-01 ~ 2019-11-01][zk_social] Took 8333 milliseconds. Got 10200747 docs. Cover counties num: 2874.
+2020-01-03 12:07:32,806 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-10-01 ~ 2019-11-01
+2020-01-03 12:07:33,211 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31']
+2020-01-03 12:07:33,211 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 22
+2020-01-03 12:07:33,548 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-11-01
+2020-01-03 12:07:35,595 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-10-31   表名：interface_stable
+2020-01-03 12:07:40,049 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100101
+2020-01-03 12:07:40,724 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100102
+2020-01-03 12:07:41,155 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100111
+2020-01-03 12:07:41,467 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4530100112
+2020-01-03 12:07:41,866 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101001
+2020-01-03 12:07:42,260 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101002
+2020-01-03 12:07:42,638 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101003
+2020-01-03 12:07:43,229 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-10-31   code：4520101004
+2020-01-03 12:08:10,800 - stable_monitor.readjust_score - INFO    :[已完成校正后的指数存入知识库] 2019-10-31   code: 4530200101   data_num: 3239
+2020-01-03 13:28:14,575 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2020-01-03 13:28:14,628 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 13:28:34,861 - stable_monitor.score - INFO    :[2019-11-01 ~ 2019-12-01][zk_social] Took 4836 milliseconds. Got 8818473 docs. Cover counties num: 2874.
+2020-01-03 13:28:44,032 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-11-01 ~ 2019-12-01
+2020-01-03 13:28:44,621 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30']
+2020-01-03 13:28:44,621 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 23
+2020-01-03 13:28:44,965 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2019-12-01
+2020-01-03 13:28:47,342 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-11-30   表名：interface_stable
+2020-01-03 13:28:52,216 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100101
+2020-01-03 13:28:52,667 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100102
+2020-01-03 13:28:53,103 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100111
+2020-01-03 13:28:53,539 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4530100112
+2020-01-03 13:28:54,014 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101001
+2020-01-03 13:28:54,423 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101002
+2020-01-03 13:28:54,796 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101003
+2020-01-03 13:28:55,200 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-11-30   code：4520101004
+2020-01-03 13:29:24,343 - stable_monitor.readjust_score - INFO    :[已完成校正后的指数存入知识库] 2019-11-30   code: 4530200101   data_num: 3239
+2020-01-03 14:51:44,694 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2020-01-03 14:51:44,738 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-03 14:52:05,873 - stable_monitor.score - INFO    :[2019-12-01 ~ 2020-01-01][zk_social] Took 5383 milliseconds. Got 6194839 docs. Cover counties num: 2874.
+2020-01-03 14:52:14,717 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-12-01 ~ 2020-01-01
+2020-01-03 14:52:15,606 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30', '2019-12-31']
+2020-01-03 14:52:15,606 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 24
+2020-01-03 14:52:15,942 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2020-01-01
+2020-01-03 14:52:15,946 - stable_monitor - WARNING :[2019-12-01 ~ 2020-01-01] 新周期内不稳定事件数仅：8745件；非正常，过少，无法评分，请检查数据源情况。
+2020-01-03 14:52:18,126 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-12-31   表名：interface_stable
+2020-01-03 14:52:22,874 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100101
+2020-01-03 14:52:23,330 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100102
+2020-01-03 14:52:23,760 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100111
+2020-01-03 14:52:24,242 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100112
+2020-01-03 14:52:24,705 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101001
+2020-01-03 14:52:25,106 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101002
+2020-01-03 14:52:25,563 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101003
+2020-01-03 14:52:26,068 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101004
+2020-01-03 14:52:54,145 - stable_monitor.readjust_score - INFO    :[已完成校正后的指数存入知识库] 2019-12-31   code: 4530200101   data_num: 3239
+2020-01-03 16:11:20,317 - stable_monitor - INFO    :【stable_monitor_main运行结束】
+
+2020-01-08 11:01:10,314 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-08 11:01:35,737 - stable_monitor.score - INFO    :[2019-12-01 ~ 2020-01-01][zk_social] Took 14290 milliseconds. Got 6438343 docs. Cover counties num: 2874.
+2020-01-08 11:01:44,765 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-12-01 ~ 2020-01-01
+2020-01-08 11:01:46,581 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30', '2019-12-31', '2019-12-31']
+2020-01-08 11:01:46,581 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 25
+2020-01-08 11:01:46,916 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2020-01-01
+2020-01-08 11:01:46,922 - stable_monitor - WARNING :[2019-12-01 ~ 2020-01-01] 新周期内不稳定事件数仅：8932件；非正常，过少，无法评分，请检查数据源情况。
+2020-01-08 11:47:47,801 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-08 11:48:03,607 - stable_monitor.score - INFO    :[2019-12-01 ~ 2020-01-01][zk_social] Took 11296 milliseconds. Got 6439920 docs. Cover counties num: 2874.
+2020-01-08 11:48:12,479 - stable_monitor.score - INFO    :[已完成当月稳定监测指数及评分计算] 当月：2019-12-01 ~ 2020-01-01
+2020-01-08 11:48:12,955 - stable_monitor.score - INFO    :STABLE_accumulatively - dirs_chosen: ['2018-01-31', '2018-02-28', '2018-03-31', '2018-04-30', '2018-05-31', '2018-06-30', '2018-07-31', '2018-08-31', '2018-09-30', '2018-10-31', '2018-11-30', '2018-12-31', '2019-01-31', '2019-02-28', '2019-03-31', '2019-04-30', '2019-05-31', '2019-06-30', '2019-07-31', '2019-08-31', '2019-09-30', '2019-10-31', '2019-11-30', '2019-12-31', '2019-12-31', '2019-12-31']
+2020-01-08 11:48:12,955 - stable_monitor.score - INFO    :STABLE_accumulatively - df num: 26
+2020-01-08 11:48:13,295 - stable_monitor.score - INFO    :[已完成累计稳定监测指数及评分计算] 累计：2018-01-01 ~ 2020-01-01
+2020-01-08 11:48:13,301 - stable_monitor - WARNING :[2019-12-01 ~ 2020-01-01] 新周期内不稳定事件数仅：8932件；非正常，过少，无法评分，请检查数据源情况。
+2020-01-08 11:48:16,861 - stable_monitor.store - INFO    :[已完成不稳定指数存入产品及测试服务器] 2019-12-31   表名：interface_stable
+2020-01-08 11:48:22,944 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100101
+2020-01-08 11:48:23,428 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100102
+2020-01-08 11:48:23,829 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100111
+2020-01-08 11:48:25,731 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4530100112
+2020-01-08 11:48:27,651 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101001
+2020-01-08 11:48:29,640 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101002
+2020-01-08 11:48:31,198 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101003
+2020-01-08 11:48:32,368 - stable_monitor.store - INFO    :[已完成稳定指标存入知识库] 2019-12-31   code：4520101004
+2020-01-08 11:49:01,987 - stable_monitor.readjust_score - INFO    :[已完成校正后的指数存入知识库] 2019-12-31   code: 4530200101   data_num: 3239
+2020-01-08 12:04:36,613 - stable_monitor - INFO    :【stable_monitor_main开始运行】
+2020-01-08 15:22:31,128 - stable_monitor - INFO    :【stable_monitor_main开始运行】
